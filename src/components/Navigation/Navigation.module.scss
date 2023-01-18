@@ -1,0 +1,8 @@
+@import '/src/variables.scss';
+
+.container {
+  background-color: $mainBg;
+  width: 10%;
+  position: fixed;
+  height: 100vh;
+}
